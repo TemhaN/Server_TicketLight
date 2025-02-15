@@ -1,0 +1,6 @@
+@TicketLight_HostAddress = http://ticketlight:5006
+
+GET {{TicketLight_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
